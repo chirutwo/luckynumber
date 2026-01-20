@@ -5,27 +5,27 @@ How it works
 -
 
 It uses the state of the art JavaScript code, with secret tricks and functions, that no one knows, to create the ultimate lucky number generator. It is so powerful that it can generate a lucky number, just like that, while it takes a supercomputer the size of a planet billions of billions of years to NOT generate a lucky number, but only half of it. At that point, humanity would deem the lucky number useless, this one constant that is constantly unaccessible to the entirety of mankind. Yet we know that it still exists. So out of all people, I came along. A noob at JavaScript creates a marvel to mankind, the key to the universe and all of its logic and laws. The key to how humans work, their flesh, blood, and souls, and gives the power to generate any human's future life. Every second of it. The ups, and the downs. The fate of the humans and their lives reside in this one simple webpage. No one may know how it works, but if you are really curious, it works just like magic.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 (jk its actually a rng from 0 to 10000)
 
 Licenses & Licensing
