@@ -1,0 +1,26 @@
+@font-face {
+	font-family: "unifont";
+	src: url(unifont-17.0.03.otf) format("opentype");
+}
+
+button {
+	font-family: unifont;
+	font-size: 16px;
+}
+
+p {
+	font-family: unifont;
+	padding-left: 75px;
+	padding-right: 75px;
+
+	text-align: center;
+	font-size: 20px;
+}
+
+.buttonContainer {
+	text-align: center;
+}
+
+.title {
+	font-size: 50px;
+}
