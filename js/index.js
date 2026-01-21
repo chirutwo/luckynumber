@@ -3,7 +3,7 @@ const reader = document.getElementById("reader");
 const title = document.getElementById("title");
 const button = document.getElementById("button");
 
-var reroll = 0;
+let reroll = 0;
 
 function findLuckyNumber() {
 	let lucky = (Math.round(Math.random() * 10000)).toString();
